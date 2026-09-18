@@ -52,4 +52,3 @@ Para facilitar la exploración y utilización del repositorio, se recomiendan la
 
 - **Obsidian:** herramienta principal para la lectura y organización de archivos **Markdown**, especialmente útil para consultar apuntes, guías y documentación.
 - **VS Code:** editor de código compatible con múltiples formatos, incluyendo archivos **Markdown, Python, C, scripts e imágenes**. Además, permite instalar extensiones para ampliar su compatibilidad y funcionalidad.
-- **Conda:** herramienta recomendada para la creación y gestión de entornos de desarrollo, permitiendo mantener las dependencias utilizadas durante el programa en entornos unificados y aislados.
