@@ -67,7 +67,7 @@ Esta fuente de aprendizaje no es tan introductoria como las anteriormente presen
 
 ---
 
-# Entregables específicos
+# Desarrollo de la Unidad 1
 
 Los entregables de esta unidad buscan evidenciar la aplicación práctica de los conceptos fundamentales de Linux.
 
@@ -86,7 +86,7 @@ En caso de utilizar una fuente adicional, se recomienda compartirla con el grupo
 
 ## 2. Resolución de retos
 
-Una vez adquiridas las bases necesarias, cada miembro deberá presentar **al menos dos retos** relacionados con los contenidos de la unidad.
+Una vez adquiridas las bases necesarias, se les recomienda presentar **al menos dos retos** relacionados con los contenidos de la unidad.
 
 *Se pueden utilizar retos de las siguientes fuentes:*
 
@@ -105,15 +105,11 @@ Los entregables **se presentan por el canal de discord** correspondiente a esta 
 - Write-up
 - Resolución grabada o en vivo
 
-> **Como alternativa a la resolución de los reto**s, se contemplan muchas más opciones válidas de entregables que se pueden consultar en la [Guía de entregables](guia_linux_entregables.md#2.%20Formatos%20de%20entrega).
+> **Como alternativa a la resolución de los retos**, se contemplan muchas más opciones válidas de entregables que se pueden consultar en la [Guía de entregables](guia_linux_entregables.md#2.%20Formatos%20de%20entrega).
 
-### Repetición de retos
+## 3. Examen teórico
 
-Para fomentar la diversidad de problemas abordados, se permitirá un máximo de **tres presentaciones del mismo reto** entre todos los miembros. Si un reto ya ha sido presentado tres veces, las siguientes personas que deseen utilizarlo deberá seleccionar otro reto.
-
-## 3. Evaluación teórica
-
-**Al finalizar el desarrollo de la unidad**, se realizará una **evaluación teórica** sobre los contenidos estudiados. Debido al carácter introductorio de esta unidad, esta evaluación busca verificar la comprensión de los conceptos fundamentales trabajados.
+**Al finalizar el desarrollo de la unidad**, se realizará un **examen teórica** sobre los contenidos estudiados. Debido al carácter introductorio de esta unidad, esta evaluación busca verificar la comprensión de los conceptos fundamentales trabajados.
 
 *El tiempo máximo de resolución será establecido durante la reunión correspondiente al cierre de la unidad.*
 
