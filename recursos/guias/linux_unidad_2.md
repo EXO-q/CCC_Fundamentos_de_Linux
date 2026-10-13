@@ -41,9 +41,9 @@ Las clases tendrán un papel fundamental en el desarrollo de esta unidad, debido
 
 ## Aprendizaje autónomo
 
-El aprendizaje autodidacta estará orientado al último bloque de la unidad ([Procesamiento y filtrado de texto](#procesamiento-y-filtrado-de-texto)) debido a que estos temas cuentan con una amplia variedad de documentación. De igual manera, los [recursos de aprendizaje](#recursos-de-aprendizaje) cubren todos los temas de la unidad.
+El aprendizaje autodidacta estará orientado al [último bloque de la unidad](#procesamiento-y-filtrado-de-texto) debido a que estos temas cuentan con una amplia variedad de documentación. De igual manera, los [recursos de aprendizaje](#recursos-de-aprendizaje) cubren todos los temas de la unidad.
 
-Los contenidos de esta unidad tienen un enfoque práctico, por ello, es fundamental reforzar los conceptos mediante su aplicación en la máquina virtual. Para este propósito, se dispone de las [guías de laboratorio](#laboratorio).
+Los contenidos de esta unidad tienen un enfoque práctico, por ello, es fundamental reforzar los conceptos mediante su aplicación en la máquina virtual. Para este propósito, se dispone de las [guías de laboratorio](#laboratorios).
 
 ## Recursos de aprendizaje
 
