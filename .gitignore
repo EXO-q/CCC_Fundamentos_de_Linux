@@ -9,8 +9,3 @@ __pycache__/
 # Edición
 .obsidian/
 .trash/
-
-# Sistema Operativo
-desktop.ini
-.DS_Store
-Thumbs.db
