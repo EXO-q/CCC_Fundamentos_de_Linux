@@ -70,7 +70,7 @@ Este libro en inglés incluye los temas necesarios para dominar la línea de com
 1. [Redireccionamiento básico](https://linuxcommand.org/lc3_lts0070.php)
 2. [Redireccionamiento avanzado](https://linuxcommand.org/lc3_adv_redirection.php)
 
-Son dos tutoriales práctico sobre los fundamentos del redireccionamiento de entrada/salida y el encadenamiento de comandos en la terminal.
+Son dos tutoriales prácticos sobre los fundamentos del redireccionamiento de entrada/salida y el encadenamiento de comandos en la terminal.
 
 Aborda desde los conceptos básicos de los flujos estándar y las tuberías hasta la manipulación avanzada de descriptores de archivo y la redirección de errores, mediante ejemplos.
 

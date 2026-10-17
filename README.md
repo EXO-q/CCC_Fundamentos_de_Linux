@@ -2,7 +2,7 @@
 
 El repositorio reúne la ruta de aprendizaje, guías, los mejores aportes de la comunidad, retos y otros recursos relacionados con el desarrollo de la categoría **Fundamentos de Linux**.
 
-Su estructura se organiza de acuerdo con el desarrollo de la categoría para que futuros miembros puedan aprender de ciclos anteriores.
+El objetivo principal es que futuros miembros puedan aprender de ciclos anteriores.
 
 ## 1. Aportes del ciclo
 
@@ -49,5 +49,5 @@ La recopilación se amplía progresivamente e incluye las fuentes originales de 
 
 Para facilitar la exploración del repositorio, se recomiendan las siguientes herramientas según el tipo de contenido almacenado:
 
-- **Obsidian:** herramienta principal para la lectura y organización de archivos **Markdown** (`.md`), especialmente útil para consultar write-ups, apuntes y guías.
+- **Obsidian:** herramienta principal para la lectura y organización de archivos Markdown (`.md`), especialmente útil para consultar write-ups, apuntes y guías.
 - **VS Code:** editor de código compatible con múltiples formatos, incluyendo archivos Markdown (`.md`), Python (`.py`), shell (`.sh`), de configuración (`.conf`), etc. Además, permite instalar extensiones para ampliar su funcionalidad.
